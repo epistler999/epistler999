@@ -2,7 +2,7 @@
 # Hello there! I'm Swapnil Gupta.
 <br>
 
-<p align = "left"> 
+<p align = "center"> 
 <img src="https://github.com/epistler999/epistler999/blob/master/assets/AboutMe-light.png" height="120em" />
  <img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="120em" />
 </p>
@@ -15,7 +15,7 @@
 
 <br>
 
-<p align = "left">
+<p align = "center">
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/TechStack-light-center.png" height="120em" />
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" />
 </p>
