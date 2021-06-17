@@ -23,7 +23,7 @@
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" />
 </p>
 
-<div align = "center" style = "table-layout:fixed;">
+<div align = "left" style = "table-layout:fixed;">
 <table>
    <col width="200em" />
     <col width="220em" />
