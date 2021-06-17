@@ -6,7 +6,6 @@
 <img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="120em" />
 <img src="https://github.com/epistler999/epistler999/blob/master/assets/AboutMe-light.png" height="120em" />
 </p>
-
 <ul>
 <li>I'm currently pursuing Bachelor of Technology in Computer Science & Engineering from ABES Engineering College.</li>
 <li>Competitive Programming is my hobby, passion and skill.</li>
@@ -14,35 +13,24 @@
 <li>Drop me a mail at <a href = "mailto:epistler999@gmail.com">epistler999@gmail.com</a>. I will revert back as soon as I can.</li>
 </ul>
 
-
 <br>
 
-
-  <p align = "left">
-  <img src="https://github.com/epistler999/epistler999/blob/master/assets/TechStack-light-center.png" height="120em" /> 
+<p align = "left">
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" />
+  <img src="https://github.com/epistler999/epistler999/blob/master/assets/TechStack-light-center.png" height="120em" /> 
+  
+</p>
+<p align="left">  
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code> 
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>  
+    </a>
 </p>
 
-<div align = "left" style = "table-layout:fixed;">
-<table>
-   <col width="200em" />
-    <col width="220em" />
-    <col width="200em" />
-    <tr>
-    <td align="center"><a href="https://www.cprogramming.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code> 
-      </a> </td>
-    <td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>  
-      </a></td>
-  </tr>
-  </table>
-  </div>
-
-
-
-
 <br>
+
 <h3 align="left">Connect With Me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/swapnil-gupta-05ba97191/"><img src="https://img.shields.io/badge/-Swapnil%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
