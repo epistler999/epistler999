@@ -15,10 +15,13 @@
 
 <br>
 
-<p align = "center"> 
-  <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/motion-doretti-nicolas-dribble.gif" height="120em" />
-  <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Github-stats-light-0x01.jpg" height="120em" />
+
+<p align = "center">
+  <img src="https://github.com/epistler999/epistler999/blob/master/assets/TechStack-dark-center.png" height="120em" />
+  <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" />
 </p>
+
+
 <p align="left">  
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code> 
