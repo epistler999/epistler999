@@ -1,7 +1,12 @@
 
 # Hello there! I'm Swapnil Gupta.
 <br>
-<h3 align="left">About Me:</h3>
+
+<p align = "center"> 
+<img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="120em" />
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/about-me-light-0x01.jpg" height="120em" />
+</p>
+
 <ul>
 <li>I'm currently pursuing Bachelor of Technology in Computer Science & Engineering from ABES Engineering College.</li>
 <li>Competitive Programming is my hobby, passion and skill.</li>
