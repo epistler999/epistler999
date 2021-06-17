@@ -16,20 +16,30 @@
 <br>
 
 
-<p align = "center">
+  <p align = "center">
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/TechStack-light-center.png" height="120em" /> 
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" />
-   
 </p>
 
-<p align="left">  
-    <a href="https://www.cprogramming.com/" target="_blank"> 
+<div align = "center" style = "table-layout:fixed;">
+<table>
+   <col width="200em" />
+    <col width="220em" />
+    <col width="200em" />
+    <tr>
+    <td align="center"><a href="https://www.cprogramming.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+      </a> </td>
+    <td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>  
-    </a>
-</p>
+      </a></td>
+  </tr>
+  </table>
+  </div>
+
+
+
+
 <br>
 <h3 align="left">Connect With Me:</h3>
 <p align="center">
