@@ -16,7 +16,7 @@
 <br>
 <br>
 
-   <h3 align="center">Languages And Tools</h3>
+   <h3 align="center">Tech Stack</h3>
    <p align = "center">
    <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" /> 
    </p>
