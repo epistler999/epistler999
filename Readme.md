@@ -3,8 +3,8 @@
 <br>
 
 <p align = "center"> 
-<img src="https://github.com/epistler999/epistler999/blob/master/assets/AboutMe-light.png" height="120em" />
- <img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="120em" />
+<h3 align="left">About Me:</h3>
+<img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="100em" />
 </p>
 <ul>
 <li>I'm currently pursuing Bachelor of Technology in Computer Science & Engineering from ABES Engineering College.</li>
