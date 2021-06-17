@@ -3,7 +3,7 @@
 <br>
 
  
-<h3 align="center">About Me:</h3>
+<h2 align="center">About Me:</h2>
 <p align = "center">
 <img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="100em" />
 </p>
@@ -16,10 +16,11 @@
 
 <br>
 
-<p align = "center">
-  <img src="https://github.com/epistler999/epistler999/blob/master/assets/TechStack-light-center.png" height="120em" />
+
+  <h2 align="left">Languages And Tools:</h2>
+  <p align = "center">
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" />
-</p>
+   </p>
 <p align="left">  
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code> 
