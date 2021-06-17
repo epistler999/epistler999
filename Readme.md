@@ -4,17 +4,21 @@
 
 <p align = "center"> 
 <img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="120em" />
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/about-me-light-0x01.jpg" height="120em" />
+<img src="https://github.com/epistler999/epistler999/blob/master/assets/AboutMe-light.png" height="120em" />
 </p>
-
 <ul>
 <li>I'm currently pursuing Bachelor of Technology in Computer Science & Engineering from ABES Engineering College.</li>
 <li>Competitive Programming is my hobby, passion and skill.</li>
 <li>I enjoy reading and writing blogs/poems and learning, investing and doing analysis on stock market in my free time.</li>
 <li>Drop me a mail at <a href = "mailto:epistler999@gmail.com">epistler999@gmail.com</a>. I will revert back as soon as I can.</li>
 </ul>
+
 <br>
-<h3 align="left">Languages And Tools:</h3>
+
+<p align = "center"> 
+  <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/motion-doretti-nicolas-dribble.gif" height="120em" />
+  <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Github-stats-light-0x01.jpg" height="120em" />
+</p>
 <p align="left">  
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code> 
