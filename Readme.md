@@ -18,7 +18,7 @@
 <br>
 
 
-  <p align = "center">
+  <p align = "left">
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/TechStack-light-center.png" height="120em" /> 
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" />
 </p>
