@@ -14,6 +14,7 @@
 </ul>
 
 <br>
+<br>
 
    <h3 align="center">Languages And Tools</h3>
    <p align = "center">
@@ -25,15 +26,12 @@
    </p>
 
 <br>
+<br>
 
- 
-  
-  
  <h3 align="center">Connect With Me</h3>
  <p align = "center">
   <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/team-doretti-nicolas-dribble.gif" height="120em" />
  </p>
-
 <p align="left">
 <a href="https://www.linkedin.com/in/swapnil-gupta-05ba97191/"><img src="https://img.shields.io/badge/-Swapnil%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:epistler999@gmail.com"><img src="https://img.shields.io/badge/-epistler999@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
