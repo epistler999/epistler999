@@ -1,7 +1,6 @@
 
 # Hello there! I'm Swapnil Gupta.
 <br>
-
  
 <h3 align="center">About Me:</h3>
 <p align = "center">
@@ -16,23 +15,24 @@
 
 <br>
 
-
-  <h3 align="center" <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" /> >Languages And Tools:</h3>
-<!--   <p align = "center">
-  
-   </p> -->
-<p align="left">  
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>  
-    </a>
-</p>
+   <h3 align="center">Languages And Tools:</h3>
+   <p align = "center">
+   <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" /> 
+   </p>
+   <p align="left">  
+   <a href="https://www.cprogramming.com/" target="_blank"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code></a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code></a>
+   </p>
 
 <br>
 
-<h3 align="left">Connect With Me:</h3>
+ 
+  
+  <p align = "center">
+ <h3>Connect With Me:</h3> 
+ <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/team-doretti-nicolas-dribble.gif" height="120em" />
+</p>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/swapnil-gupta-05ba97191/"><img src="https://img.shields.io/badge/-Swapnil%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:epistler999@gmail.com"><img src="https://img.shields.io/badge/-epistler999@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
