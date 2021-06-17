@@ -38,7 +38,6 @@
 <a href="https://www.linkedin.com/in/swapnil-gupta-05ba97191/"><img src="https://img.shields.io/badge/-Swapnil%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:epistler999@gmail.com"><img src="https://img.shields.io/badge/-epistler999@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.miraquill.com/epistler_999"><img src="https://img.shields.io/badge/Miraquill-epistler_999-dc4e41?style=flat&logo=&logoColor=white"/></a>
-<br>
 <a href="https://codeforces.com/profile/swapnil1203"><img src="https://img.shields.io/badge/-swapnil1203-445F9D?style=flat&logo=Codeforces&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/master_killer"><img src="https://img.shields.io/badge/-master_killer-5D3319?style=flat&logo=Codechef&logoColor=white"/></a>
 <a href="https://www.hackerearth.com/@master_killer"><img src="https://img.shields.io/badge/-master_killer-323754?style=flat&logo=Hackerearth&logoColor=white"/></a>
