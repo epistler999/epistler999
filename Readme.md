@@ -3,8 +3,8 @@
 <br>
 
 <p align = "left"> 
-<img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="120em" />
 <img src="https://github.com/epistler999/epistler999/blob/master/assets/AboutMe-light.png" height="120em" />
+ <img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="120em" />
 </p>
 <ul>
 <li>I'm currently pursuing Bachelor of Technology in Computer Science & Engineering from ABES Engineering College.</li>
@@ -16,9 +16,8 @@
 <br>
 
 <p align = "left">
+  <img src="https://github.com/epistler999/epistler999/blob/master/assets/TechStack-light-center.png" height="120em" />
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" />
-  <img src="https://github.com/epistler999/epistler999/blob/master/assets/TechStack-light-center.png" height="120em" /> 
-  
 </p>
 <p align="left">  
     <a href="https://www.cprogramming.com/" target="_blank"> 
