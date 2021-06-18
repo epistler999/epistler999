@@ -32,7 +32,7 @@
 <br>
 
 <p align = "center"> 
-  <img src="https://github.com/epistler999/epistler999/blob/master/assets/Connect-light-0x01.jpg" height="120em" />
+  <img src="https://github.com/epistler999/epistler999/blob/master/assets/Connect-dark.png" height="120em" />
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/team-doretti-nicolas-dribble.gif" height="120em" />
 </p>
 <p align="left">
