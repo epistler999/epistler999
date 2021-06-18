@@ -1,8 +1,8 @@
 
-# Hello there! I'm Swapnil Gupta.
+### Hello there! I'm Swapnil Gupta.
 <br>
  
-<h3 align="center">About Me</h3>
+<h1 align="center">About Me</h1>
 <p align = "center">
 <img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="100em" />
 </p>
@@ -16,7 +16,7 @@
 <br>
 <br>
 
-   <h3 align="center">Tech Stack</h3>
+   <h1 align="center">Tech Stack</h1>
    <p align = "center">
    <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" /> 
    </p>
@@ -28,7 +28,7 @@
 <br>
 <br>
 
- <h3 align="center">Connect With Me</h3>
+ <h1 align="center">Connect With Me</h1>
  <p align = "center">
   <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/team-doretti-nicolas-dribble.gif" height="120em" />
  </p>
