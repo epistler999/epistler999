@@ -3,10 +3,12 @@
 
 <br> 
 
-<h3 align="center">About Me</h3>
-<p align = "center">
-<img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="100em" />
+
+<p align = "center"> 
+<img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="120em" />
+<img src="https://github.com/epistler999/epistler999/blob/master/assets/AboutMe-light.png" height="120em" />
 </p>
+
 <ul>
 <li>I'm currently pursuing Bachelor of Technology in Computer Science & Engineering from ABES Engineering College.</li>
 <li>Competitive Programming is my hobby, passion and skill.</li>
@@ -17,9 +19,9 @@
 <br>
 <br>
 
-<h3 align="center">Tech Stack</h3>
 <p align = "center">
-<img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" /> 
+  <img src="https://github.com/epistler999/epistler999/blob/master/assets/TechStack-light-center.png" height="120em" />
+  <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" />
 </p>
 <p align="left">  
 <a href="https://www.cprogramming.com/" target="_blank"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code></a> 
@@ -29,9 +31,9 @@
 <br>
 <br>
 
-<h3 align="center">Connect With Me</h3>
-<p align = "center">
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/team-doretti-nicolas-dribble.gif" height="120em" />
+<p align = "center"> 
+  <img src="https://github.com/epistler999/epistler999/blob/master/assets/Connect-light-0x01.jpg" height="120em" />
+  <img src="https://github.com/epistler999/epistler999/blob/master/assets/team-doretti-nicolas-dribble.gif" height="120em" />
 </p>
 <p align="left">
 <a href="mailto:epistler999@gmail.com"><img src="https://img.shields.io/badge/-epistler999@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
