@@ -39,7 +39,7 @@
 <br>
 <a href="https://codeforces.com/profile/swapnil1203"><img src="https://img.shields.io/badge/-swapnil1203-445F9D?style=flat&logo=Codeforces&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/master_killer"><img src="https://img.shields.io/badge/-master_killer-5D3319?style=flat&logo=Codechef&logoColor=white"/></a>
-<a href="https://auth.geeksforgeeks.org/user/epistler_999/practice/"><img src="https://img.shields.io/badge/GFG-epistler_999-darkgreen?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://auth.geeksforgeeks.org/user/epistler_999/practice/"><img src="https://img.shields.io/badge/epistler_999-darkgreen?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
 <a href="https://atcoder.jp/users/master_killer"><img src="https://img.shields.io/badge/Atcoder-master_killer-222222?style=flat&logo=atcoder&logoColor=white"/></a>
 <a href="https://leetcode.com/master_killer/"><img src="https://img.shields.io/badge/-master_killer-FFA116?style=flat&logo=Leetcode&logoColor=white"/></a>
 <a href="https://www.hackerearth.com/@master_killer"><img src="https://img.shields.io/badge/-master_killer-323754?style=flat&logo=Hackerearth&logoColor=white"/></a>
