@@ -2,7 +2,7 @@
 ### Hello there! I'm Swapnil Gupta.
 <br>
  
-<h1 align="center">About Me</h1>
+<h2 align="center">About Me</h2>
 <p align = "center">
 <img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="100em" />
 </p>
