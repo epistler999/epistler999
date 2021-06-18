@@ -44,10 +44,6 @@
 <a href="https://leetcode.com/master_killer/"><img src="https://img.shields.io/badge/-master_killer-FFA116?style=flat&logo=Leetcode&logoColor=white"/></a>
 <a href="https://www.hackerearth.com/@master_killer"><img src="https://img.shields.io/badge/-master_killer-323754?style=flat&logo=Hackerearth&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/epistler_999?hr_r=1"><img src="https://img.shields.io/badge/-epistler999-2EC866?style=flat&logo=Hackerrank&logoColor=white"/></a>
-
-
-
-
 </p>
 
 
