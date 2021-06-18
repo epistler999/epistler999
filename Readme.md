@@ -5,8 +5,9 @@
 
 
 <p align = "center"> 
-<img src="https://github.com/epistler999/epistler999/blob/master/assets/AboutMe-light.png" height="120em" />
-<img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="80em" />
+  <img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="80em" />
+  <img src="https://github.com/epistler999/epistler999/blob/master/assets/AboutMe-light.png" height="120em" />
+
 </p>
 
 <ul>
