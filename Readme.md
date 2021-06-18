@@ -2,8 +2,8 @@
 # Hello there! I'm Swapnil Gupta.
 <br>
  
-<h3 align="center">About Me</h3>
-<p align = "center">
+<h3 align="left">About Me</h3>
+<p align = "left">
 <img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="100em" />
 </p>
 <ul>
@@ -16,8 +16,8 @@
 <br>
 <br>
 
-   <h3 align="center">Tech Stack</h3>
-   <p align = "center">
+   <h3 align="left">Tech Stack</h3>
+   <p align = "left">
    <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" /> 
    </p>
    <p align="left">  
@@ -28,8 +28,8 @@
 <br>
 <br>
 
- <h3 align="center">Connect With Me</h3>
- <p align = "center">
+ <h3 align="left">Connect With Me</h3>
+ <p align = "left">
   <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/team-doretti-nicolas-dribble.gif" height="120em" />
  </p>
 <p align="left">
