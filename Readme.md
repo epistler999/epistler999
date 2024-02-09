@@ -14,7 +14,7 @@
 <li>I'm currently pursuing Bachelor of Technology in Computer Science & Engineering from ABES Engineering College.</li>
 <li>Competitive Programming is my hobby, passion and skill.</li>
 <li>I enjoy reading and writing blogs/poems and learning, investing and doing analysis on stock market in my free time.</li>
-<li>Drop me a mail at <a href = "mailto:epistler999@gmail.com">epistler999@gmail.com</a>. I will revert back as soon as I can.</li>
+<li>Drop me a mail at <a href = "mailto:guptaswapnilofficial@gmail.com">epistler999@gmail.com</a>. I will revert back as soon as I can.</li>
 </ul>
 
 <br>
