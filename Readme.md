@@ -1,7 +1,7 @@
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=epistler999)
-### Hello there! I'm Swapnil Gupta.
+### Hi there! I'm Swapnil Gupta.
 <p align = "center"> 
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="80em" />
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/AboutMe-light.png" height="120em" />
