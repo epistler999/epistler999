@@ -11,7 +11,7 @@
 </p>
 
 <ul>
-<li>I'm currently working as a Software Engineer with 1.5 + years of hands-on experience in developing responsive web applications. Proficient in HTML, CSS, JavaScript, Typescript, and popular frameworks like React and Angular. Skilled in translating design concepts into efficient, user-friendly interfaces. Committed to staying updated with emerging technologies and delivering high-quality code to meet project goals and exceed client expectations
+<li>I'm currently working as a Software Engineer with 1.5 + years of hands-on experience in developing responsive web applications. Proficient in **HTML, CSS, JavaScript, Typescript**, and popular frameworks like **React** and **Angular**. Skilled in translating design concepts into efficient, user-friendly interfaces. Committed to staying updated with emerging technologies and delivering high-quality code to meet project goals and exceed client expectations
 </li>
 <li>Competitive Programming is my hobby, passion and skill.</li>
 <li>I enjoy reading and writing blogs/poems and learning, investing and doing analysis on stock market in my free time.</li>
