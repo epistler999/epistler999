@@ -51,9 +51,25 @@
     </tr>
   </table>
 </div>
+<br>
+<p align = "center"> 
+  <img src="https://github.com/epistler999/epistler999/blob/master/assets/motion-doretti-nicolas-dribble.gif" height="120em" />
+  <img src="https://github.com/epistler999/epistler999/blob/master/assets/Github-stats-light-0x01.jpg" height="120em" />
+</p>
 
+
+<p align = "center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=epistler999&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=epistler999&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=buefy"/>
+</p>
 <br>
 <br>
+
+
+
+
+
+
 
 <p align = "center"> 
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/Connect-light-0x01.jpg" height="100em" />
