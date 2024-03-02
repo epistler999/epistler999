@@ -21,11 +21,48 @@
 <br>
 <br>
 
-<p align = "center">
-  <img src="https://github.com/epistler999/epistler999/blob/master/assets/TechStack-light-center.png" height="120em" />
-  <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" />
-  <img src="https://img.shields.io/badge/-HTML5-white?style=flat&logo=HTML5"/>
-</p>
+<div align = "center" style = "table-layout:fixed;">
+  <table>
+    <col width="200em" />
+    <col width="220em" />
+    <col width="200em" />
+    <tr>
+      <td align="center"> <img src = "https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-C-white?style=flat&logo=C&logoColor=A8B9CC" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Kotlin-white?style=flat&logo=kotlin" \> </td>
+    </tr>
+    <tr>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Python3-white?style=flat&logo=python" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-pypy3-white?style=flat&logo=pypy&logoColor=00599C" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Numpy-white?style=flat&logo=numpy&logoColor=00599C" \> </td>
+    </tr>
+    <tr>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Pandas-white?style=flat&logo=pandas&logoColor=00599C" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Scipy-white?style=flat&logo=scipy" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Tableau-white?style=flat&logo=Tableau" \> </td>
+    </tr>
+    <tr>
+      <td align="center"> <img src = "https://img.shields.io/badge/-HTML5-white?style=flat&logo=HTML5" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-CSS3-white?style=flat&logo=CSS3&logoColor=1572B6" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Bootstrap4-white?style=flat&logo=bootstrap&logoColor=563D7C" \> </td>
+    </tr>
+    <tr>
+      <td align="center"> <img src = "https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Angular7-white?style=flat&logo=angular&logoColor=red" \> </td>
+    </tr>
+    <tr>
+      <td align="center"> <img src = "https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Markdown-white?style=flat&logo=markdown&logoColor=black" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Latex-white?style=flat&logo=latex&logoColor=grey" \> </td>
+    </tr>
+    <tr>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Git-white?style=flat&logo=git" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Sublime%20Text%203-white?style=flat&logo=sublimetext" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-VS%20Code-white?style=flat&logo=visual-studio-code&logoColor=007ACC" \> </td>
+    </tr>
+  </table>
+</div>
 <p align="left">  
 <a href="https://www.cprogramming.com/" target="_blank"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code></a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code></a>
