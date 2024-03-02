@@ -17,10 +17,12 @@
 <li>I enjoy reading and writing blogs/poems and learning, investing and doing analysis on stock market in my free time.</li>
 <li>Drop me a mail at <a href = "mailto:guptaswapnilofficial@gmail.com">guptaswapnilofficial@gmail.com</a>. I will revert back as soon as I can.</li>
 </ul>
-
 <br>
 <br>
-
+<p align = "center">
+  <img src="https://github.com/epistler999/epistler999/blob/master/assets/TechStack-light-center.png" height="120em" />
+  <img src="https://github.com/epistler999/epistler999/blob/master/assets/resp-dribble.gif" height="120em" />
+</p>
 <div align = "center" style = "table-layout:fixed;">
   <table>
     <col width="200em" />
@@ -63,10 +65,6 @@
     </tr>
   </table>
 </div>
-<p align="left">  
-<a href="https://www.cprogramming.com/" target="_blank"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code></a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code></a>
-</p>
 
 <br>
 <br>
