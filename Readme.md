@@ -1,15 +1,10 @@
 
+![](https://komarev.com/ghpvc/?username=epistler999)
 ### Hello there! I'm Swapnil Gupta.
-
-<br> 
-
-
 <p align = "center"> 
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="80em" />
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/AboutMe-light.png" height="120em" />
-
 </p>
-
 <ul>
 <li>I'm currently working as a Software Engineer with 1.5 + years of hands-on experience in developing responsive web applications. Proficient in <b>HTML, CSS, JavaScript, Typescript</b>, and popular frameworks like <b>React</b> and <b>Angular</b>. Skilled in translating design concepts into efficient, user-friendly interfaces. Committed to staying updated with emerging technologies and delivering high-quality code to meet project goals and exceed client expectations
 </li>
