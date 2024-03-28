@@ -76,7 +76,7 @@
   <img src="https://github.com/epistler999/epistler999/blob/master/assets/team-doretti-nicolas-dribble.gif" height="80em" />
 </p>
 <p align="left">
-<a href="mailto:guptaswapnilofficial@gmail.com"><img src="https://img.shields.io/badge/-guptaswapnilofficial.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:epistler999@gmail.com"><img src="https://img.shields.io/badge/-epistler999.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/gupta-swapnil"><img src="https://img.shields.io/badge/-Swapnil%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <br>
 <a href="https://codeforces.com/profile/swapnil1203"><img src="https://img.shields.io/badge/-swapnil1203-445F9D?style=flat&logo=Codeforces&logoColor=white"/></a>
