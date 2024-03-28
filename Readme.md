@@ -9,9 +9,9 @@
 <ul>
 <li>I'm currently working as a Software Engineer with 2+ years of hands-on experience in developing responsive web applications. Proficient in <b>HTML, CSS, JavaScript, Typescript</b>, and popular library and frameworks like <b>React</b> and <b>Angular8</b>. Skilled in translating design concepts into efficient, user-friendly interfaces. Committed to staying updated with emerging technologies and delivering high-quality code to meet project goals and exceed client expectations
 </li>
-<li>Competitive Programming is my hobby, passion and skill.</li>
-<li>I enjoy reading and writing blogs/poems and learning, investing and doing analysis on stock market in my free time.</li>
-<li>Drop me a mail at <a href = "mailto:epistler999@gmail.com">epistler999@gmail.com</a>. I will revert back as soon as I can.</li>
+<li>Competitive Programming is my hobby, passion and skill</li>
+<li>In my free time, I find enjoyment in reading and writing blogs, expanding my knowledge, and delving into stock market analysis and investment</li>
+<li>Drop me a mail at <a href = "mailto:epistler999@gmail.com">epistler999@gmail.com</a>. I will revert back as soon as I can</li>
 </ul>
 <br>
 <br>
